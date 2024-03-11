@@ -1,0 +1,21 @@
+{
+  "name": "tagesjump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@types/n-readlines": "^1.0.6",
+    "n-readlines": "^1.0.1"
+  }
+}
